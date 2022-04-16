@@ -16,7 +16,7 @@ node_modules/
 # Build and test
 dist/
 build/
-# lib/
+lib/
 coverage/
 
 # JetBrains
